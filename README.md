@@ -1,15 +1,63 @@
-<h1>Olá! Eu eu sou o Gabriel Patricio</h1>
-<a href="https://www.instagram.com/gpa_patricio_"><img align="center" alt="html" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/gabriel-patricio-a89207140/"><img align="center" alt="html" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<h1>Tecnologias que eu uso no meu dia</h1>
-<div style="display: inline-block"> <br/>
-<img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white"/>
-<img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img align="center" alt= "Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img align="center" alt= "Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img align="center" alt= "Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img align="center" alt= "C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+<br><br><br>
 
+<div align="center">
+  <img align="center" height="150" src="https://i.imgur.com/RZnYfTI.png" alt="gato preto"/>
 </div>
+
+<div align="center">
+  <samp>
+      <br>
+      Hi there! I'm <b>Gabriel Patricio</b>
+  </samp>
+</div>
+
+<div align="center" width="100%">
+  <!-- Typing SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9b59b6&width=900&size=22&center=true&pause=1000&speed=80&lines=I'm+from+Brazil;I'm+a+Computer+Science+student;And+I'm+also+a+Technician+in+IT.;Be+Welcome!" alt="Typing SVG"/>
+</div>
+
+<br><br>
+
+<div align="center">
+  <img height=160 align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevGabrielPA&theme=tokyonight"/>
+  <img height=160 align="center" alt="Repos per Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevGabrielPA&theme=tokyonight"/>
+  <img height=160 align="center" alt="Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevGabrielPA&theme=tokyonight"/>
+</div>
+
+<br><br>
+
+<div align="center" style="display: inline_block"><br>
+  <!-- Tecnologias -->
+  <img width="40" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img width="40" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="40" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="40" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img width="40" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img width="40" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="40" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img width="40" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="40" title="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img width="40" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img width="40" title="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+  <img width="40" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+</div>
+
+<br><br>
+
+<details align="center">
+  <summary><samp><b>Mais sobre mim</b></samp></summary>
+  <br>
+
+  <div align="center">
+    <samp><b>Área:</b> Ciência da Computação — Técnico em TI</samp>
+    <br><br>
+
+  <!-- Contatos -->
+  [![Gmail](https://img.shields.io/badge/Gmail-4b0082?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:gabrielpatricioandrade14@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-4b0082?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/gabriel-patricio-a89207140/)
+  [![Instagram](https://img.shields.io/badge/Instagram-4b0082?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/gpa_patricio_/)
+
+  </div>
+</details>
